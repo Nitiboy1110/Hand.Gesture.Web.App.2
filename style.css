@@ -1,0 +1,70 @@
+
+body
+{
+  color: white;
+  background: #c0d3ff;
+  font-family: 'Luckiest Guy', cursive;
+  letter-spacing: 5px;
+}
+span
+{
+  font-size: 30px;
+}
+#cam , #photo_result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  font-family: 'Luckiest Guy', cursive;
+  background-color: lightblue;
+  border-radius: 75px;
+}
+#result_gesture_name ,#result_gesture_name2  
+{
+  color: black;
+  font-family: 'Luckiest Guy', cursive;
+}
+.emotion_name
+{
+  font-size: 40px;
+  font-family: 'Luckiest Guy', cursive;
+}
+.gesture_name
+{
+  font-size:48px;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+.heading
+{
+  font-size: 30px;
+  font-family: 'Luckiest Guy', cursive;
+  letter-spacing: 10px;
+  border-radius: 10px;
+}
+
+label
+{
+  font-size: 14px;
+  color: darkblue;
+  padding: 6px;
+  background-color: lightcoral;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+p
+{
+  font-family: 'Luckiest Guy', cursive;
+  color: blue;
+  background-color: crimson;
+}
+
+.capture_image_button
+{
+  text-align: right;
+}
+
+.image_button
+{
+  text-align: left;
+}
